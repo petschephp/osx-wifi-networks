@@ -2,7 +2,7 @@
   "name": "petschephp/osx-wifi",
   "autoload": {
     "psr-0": {
-      "petschephp\\wifi": "src"
+      "petschephp\\AirPort" : "src"
     }
   }
 }
