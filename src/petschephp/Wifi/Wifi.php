@@ -1,5 +1,5 @@
 <?php
-namespace petschephp\Wifi;
+namespace petschephp\wifi;
 /**
  * Class Wifi
  * @author Kevin Petsche
