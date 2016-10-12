@@ -1,5 +1,5 @@
 {
-  "name": "petschephp/wifi",
+  "name": "petschephp/osx-wifi",
   "description": "Get wifi networks on OSX using the airport command",
   "authors": [
     {
@@ -9,7 +9,7 @@
   ],
   "autoload": {
     "psr-0": {
-      "petschephp\\wifi": "src"
+      "petschephp\\Wifi": "src"
     }
   }
 }
