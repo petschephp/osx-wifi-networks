@@ -7,11 +7,9 @@
       "email": "petschephp@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
-  "require": {},
   "autoload": {
     "psr-0": {
-      "petschephp": "src/"
+      "petschephp\\Wifi": "src/"
     }
   }
 }
