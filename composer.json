@@ -1,15 +1,8 @@
 {
   "name": "petschephp/osx-wifi",
-  "description": "Get wifi networks on OSX using the airport command",
-  "authors": [
-    {
-      "name": "Kevin Petsche",
-      "email": "petschephp@gmail.com"
-    }
-  ],
   "autoload": {
     "psr-0": {
-      "petschephp\\Wifi": "src"
+      "petschephp\\wifi": "src"
     }
   }
 }
